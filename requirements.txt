@@ -1,3 +1,2 @@
-flask>=3.0
-gunicorn>=21.2
+streamlit>=1.31.0
 requests>=2.31
